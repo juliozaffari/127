@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(193, 234, 255);
+}
+#Pontos{
+    font-size: medium;
+    margin-left: 25px;
+}
+#Tempo{
+    font-size: medium;
+    float: right;
+    margin-right: 25px;
+}
+#EsboçoDesenhado{
+    color:red;
+}
